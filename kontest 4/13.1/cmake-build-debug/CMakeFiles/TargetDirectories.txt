@@ -1,0 +1,3 @@
+C:/Users/Asus/CLionProjects/osnovi/kontest 4/13.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Asus/CLionProjects/osnovi/kontest 4/13.1/cmake-build-debug/CMakeFiles/13_1.dir
+C:/Users/Asus/CLionProjects/osnovi/kontest 4/13.1/cmake-build-debug/CMakeFiles/edit_cache.dir

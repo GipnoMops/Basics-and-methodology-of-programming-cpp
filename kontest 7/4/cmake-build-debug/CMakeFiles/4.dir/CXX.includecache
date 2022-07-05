@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Asus/CLionProjects/osnovi/kontest 7/4/main.cpp
+exception
+-
+iostream
+-
+iterator
+-
+memory
+-
+string
+-
+sstream
+-
+vector
+-
+memory
+-
+
